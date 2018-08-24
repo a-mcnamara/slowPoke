@@ -1,0 +1,25 @@
+{
+  "name": "slowpoke",
+  "version": "1.0.0",
+  "description": "crawler work",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-mcnamara/slowPoke.git"
+  },
+  "keywords": [
+    "slowPoke"
+  ],
+  "author": "Anthony McNamara,Robert Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-mcnamara/slowPoke/issues"
+  },
+  "homepage": "https://github.com/a-mcnamara/slowPoke#readme",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  }
+}
