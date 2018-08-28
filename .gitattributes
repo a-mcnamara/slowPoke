@@ -1,0 +1,4 @@
+.exec filter=lfs diff=lfs merge=lfs -text
+*.exec filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+Chromium[[:space:]]Framework filter=lfs diff=lfs merge=lfs -text
